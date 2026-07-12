@@ -31,4 +31,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/isudeshpatil
+
