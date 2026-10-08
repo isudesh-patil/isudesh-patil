@@ -1,7 +1,7 @@
 # Hi, I'm Sudesh 👋
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-💼 AIML Intern at Technosoft Engineering  
+💼 Graduate Engineer Trainee (AIML) at Technosoft Engineering  
 🚀 Passionate about building real-world AI solutions  
 
 ---
